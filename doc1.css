@@ -1,0 +1,25 @@
+.field{
+    height: 400px;
+    width: 400px;
+    background-color: #000000;
+    overflow: hidden;
+}
+.player{
+    height: 10px;
+    width: 30px;
+    background-color: red;
+    border: 1px solid #000000;
+
+    position: sticky;
+    top: 95%;
+    left: 50%;
+}
+.egg{
+    height: 20px;
+    width: 13px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+
+    position: relative;
+    top: 0%;
+}
